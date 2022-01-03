@@ -103,3 +103,7 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
 .section-title {
     font-family: 'IRANSansFaNum';
 }
+.header-logo-image, .footer-brand img {
+  width:50px;
+  border-radius:50%;
+}
