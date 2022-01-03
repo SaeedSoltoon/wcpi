@@ -94,3 +94,9 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
 .hero-title {
   font-size:30px;
 }
+.text-sm {
+    font-size:14px;
+    direction: rtl;
+    text-align: right;
+    font-family: 'IRANSansFaNum';
+}
