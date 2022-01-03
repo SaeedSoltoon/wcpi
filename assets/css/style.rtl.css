@@ -81,3 +81,10 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
     margin-top: 100px;
     border-bottom-left-radius: 35px;
 }
+.hero-paragraph, .section-paragraph {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'IRANSansFaNum';
+    direction: rtl;
+    text-align: justify;
+}
