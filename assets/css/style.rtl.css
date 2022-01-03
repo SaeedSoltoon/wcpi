@@ -104,6 +104,6 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
     font-family: 'IRANSansFaNum';
 }
 .header-logo-image, .footer-brand img {
-  width:50px;
-  border-radius:50%;
+  width:50px !important;
+  border-radius:50% !important;
 }
